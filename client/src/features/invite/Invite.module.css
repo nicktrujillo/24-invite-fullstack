@@ -1,0 +1,54 @@
+.pageFlex {
+  display: flex;
+  flex-direction: column;
+  width: 25%;
+  margin: 10% auto;
+}
+
+.userInfo {
+  background: rgb(224, 224, 224);
+  padding: 40px;
+}
+
+.count {
+  display: flex;
+  justify-content: space-between;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.yes {
+  padding: 20px;
+  background: lightgreen;
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  font-size: 20px;
+}
+
+.no {
+  padding: 20px;
+  background: rgb(253, 135, 135);
+  border: none;
+  cursor: pointer;
+  width: 50%;
+  font-size: 20px;
+}
+
+.pic {
+  border-radius: 50%;
+  width: 40%;
+  border: 3px solid grey;
+}
+
+.picflex {
+  display: flex;
+  justify-content: center;
+}
+
+.bold {
+  font-weight: bolder;
+}

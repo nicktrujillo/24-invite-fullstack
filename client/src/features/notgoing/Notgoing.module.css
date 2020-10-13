@@ -1,0 +1,15 @@
+.userInfo {
+  background: rgb(224, 224, 224);
+  width: 15%;
+  padding: 40px;
+  margin: 20px;
+}
+
+.pageflex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.title {
+  text-align: center;
+}
